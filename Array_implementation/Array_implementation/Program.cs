@@ -30,12 +30,11 @@ public class CustomArrayList<T>
         this.count++;
     }
 
-
     ///<summary>Inserts the specified element at given position in this list</summary>
     /// <param name="index">
     /// index , at which the specified element is to be inserted</param>
     /// <param name="item">Element to be inserted</param>
-    /// <exception cref=" cref="System.IndexOutOfRangeException">Index is invalid</exception>
+    /// <exception  cref="System.IndexOutOfRangeException">Index is invalid</exception>
     public void Insert(int index , T item)
     {
         if(index > this.count || index< 0)
@@ -90,6 +89,7 @@ public class CustomArrayList<T>
     ///<param name="item">The item to be checked param>
     ///<returns> If thre item exist</returns>
     public bool Contains(T item)
+ 
     {
         int index = IndexOf(item);
         bool found = (index != -1);
