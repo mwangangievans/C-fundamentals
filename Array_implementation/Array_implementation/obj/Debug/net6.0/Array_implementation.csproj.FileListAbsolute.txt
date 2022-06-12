@@ -1,0 +1,15 @@
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\bin\Debug\net6.0\Array_implementation.exe
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\bin\Debug\net6.0\Array_implementation.deps.json
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\bin\Debug\net6.0\Array_implementation.runtimeconfig.json
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\bin\Debug\net6.0\Array_implementation.dll
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\bin\Debug\net6.0\Array_implementation.pdb
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\obj\Debug\net6.0\Array_implementation.csproj.AssemblyReference.cache
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\obj\Debug\net6.0\Array_implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\obj\Debug\net6.0\Array_implementation.AssemblyInfoInputs.cache
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\obj\Debug\net6.0\Array_implementation.AssemblyInfo.cs
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\obj\Debug\net6.0\Array_implementation.csproj.CoreCompileInputs.cache
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\obj\Debug\net6.0\Array_implementation.dll
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\obj\Debug\net6.0\refint\Array_implementation.dll
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\obj\Debug\net6.0\Array_implementation.pdb
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\obj\Debug\net6.0\Array_implementation.genruntimeconfig.cache
+D:\EVANS_PROJECTS\C#\C-fundamentals\Array_implementation\Array_implementation\obj\Debug\net6.0\ref\Array_implementation.dll
