@@ -108,6 +108,41 @@ public class CustomArrayList<T>
             }
             return this.arr[index];
         }
+        set
+        {
+            if (index >= this.count || index < 0 )
+            {
+                throw new ArgumentOutOfRangeException("invalid index" + index);
+            }
+            this.arr[index] = value;
+        }
+    }
+    ///<summary>Remove the elemennt at the specified index </summary>
+    ///<param name="index">the index of the element to be removed</param>
+    ///<returns>the removed item</returns>
+    public T RemoveAt(int index)
+    {
+            if(index>= this.count || index < 0)
+            {
+                throw new ArgumentOutOfRangeException("invalid index" + index);
+            }
+            T item = this.arr[index];
+            Array.Copy(this.arr, index + 1, this.arr, index, this.count - index - 1);
+            this.arr[this.count - 1] = default(T);
+            this.count--;
+            return item; 
+    }
+    /// <summary>Removes the specified item</summary>
+    /// <param name="item">The item to be removed</param>
+    /// <returns>The removed item's index or -1 if the item does not exist</returns>
+    public int Remove(T item)
+    {
+        int index = IndexOf(item);
+        if(index != -1)
+        {
+            this.RemoveAt(index);
+        }
+        return index;
     }
 
 
